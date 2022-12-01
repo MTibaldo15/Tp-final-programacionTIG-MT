@@ -1,0 +1,24 @@
+KBA Status,Name,Country,Latitude,Longitude
+Confirmed,Parque Nacional Iguazu y Alrededores,Argentina,-25.660000,-54.360000
+Confirmed,Parque Provincial Uruzu y Reserva Forestal San Jorge,Argentina,-25.830000,-54.230000
+Confirmed,Parque Provincial Guardaparque Horacio Foerster,Argentina,-25.830000,-53.880000
+Confirmed,Corredor Uruga-i Foerster,Argentina,-25.840000,-53.960000
+Confirmed,Parque Provincial Urugua-i,Argentina,-25.970000,-54.030000
+Confirmed,Sierra Morena,Argentina,-26.060000,-54.310000
+Confirmed,Cuenca del Piray Mini,Argentina,-26.280000,-54.120000
+Confirmed,Alta Cuenca del Arroyo Alegria,Argentina,-26.460000,-54.040000
+Confirmed,Alta Cuenca del Arroyo Piray Guazu,Argentina,-26.480000,-54.290000
+Confirmed,Parque Provincial Piñalito y Alrrededores,Argentina,-26.500000,-53.780000
+Confirmed,Parque Provincial Cruce Caballero,Argentina,-26.520000,-53.990000
+Confirmed,San Pedro,Argentina,-26.590000,-54.020000
+Confirmed,Reserva Privada Yaguaroundi,Argentina,-26.690000,-54.270000
+Confirmed,Montecarlo,Argentina,-26.770000,-54.430000
+Confirmed,Reserva de la Biosfera Yaboti,Argentina,-26.910000,-53.990000
+Confirmed,Dos de Mayo,Argentina,-27.030000,-54.760000
+Confirmed,Parque Provincial Salto Encantado del Valle del Cuña-Piru y alrededores,Argentina,-27.020000,-54.950000
+Confirmed,Campo Viera y Campo Ramón,Argentina,-27.300000,-54.840000
+Confirmed,Campo San Juan,Argentina,-27.420000,-55.670000
+Confirmed,Cuenca del Arroyo Garupa,Argentina,-27.570000,-55.750000
+Confirmed,Cerro Martires y Barra Santa Maria,Argentina,-27.830000,-55.420000
+Confirmed,Azara,Argentina,-28.060000,-55.690000
+Confirmed,Barra Concepcion,Argentina,-28.090000,-55.600000
